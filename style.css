@@ -6,6 +6,9 @@ html {
 	font: inherit;
 	vertical-align: baseline;
     box-sizing: border-box;
+		font-family: "arial", sans-serif;
+		font-size: 1.6em;
+		color:#000000;
 
 }
 
